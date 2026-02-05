@@ -16,4 +16,5 @@ Database:
   sales–stores sales data
   commissions–stores commissions data
 
-index page is the first page 
+index page is the first page.
+sql data is in the folder.
